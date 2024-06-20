@@ -3,4 +3,5 @@
   <li>Aiogram</li>
   <li>PostgreSQL</li>
   <li>Sqlalchemy</li>
+  <li>Alembic</li>
 </ul>
