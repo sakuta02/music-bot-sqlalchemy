@@ -2,5 +2,5 @@
 <ul>
   <li>Aiogram</li>
   <li>PostgreSQL</li>
-  <li>Sqlalchemmy</li>
+  <li>Sqlalchemy</li>
 </ul>
